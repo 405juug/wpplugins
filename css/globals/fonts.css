@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'poppins-light';
+    src: url(/fonts/Poppins/Poppins-Light.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'montserrat-bold';
+    src: url(/fonts/montserrat-bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'poppins';
+    src: url(/fonts/Poppins/Poppins-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'puppins-medium';
+    src: url(/fonts/Poppins/Poppins-Medium.ttf);
+    font-weight: 500;
+}
