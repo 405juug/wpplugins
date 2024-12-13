@@ -54,7 +54,7 @@
     height: 18px;
 }
 
-.footer__questions a:hover, :active, :visited{
+.footer__questions a:hover, :visited{
     color: var(--azure);
 }
 
